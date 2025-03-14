@@ -11,6 +11,15 @@ Room Preference Breakdown: Desired vs. undesired room bookings.
 Monthly Cancellations Overview: Trends in cancellations by month.
 Yearly Booking Trends: Cancellations, check-outs, and no-shows over time.
 
+📂 Project Files
+```
+📁 Hotel-Booking-Cancellation
+│── 📜 README.md              # Project documentation
+│── 📂 Power BI Reports       # Power BI dashboard file (.pbix)
+│── 📜 Hotel_booking_cancellation.pbix  # Main Power BI report
+│── 📜 Insights_Report.pdf    # Summary of key findings
+│── 📂 Data      
+```
 📊 Key Insights from the Dashboard
 Guest Segment Impact:
 
@@ -49,3 +58,6 @@ Open Hotel_booking_cancellation.pbix in Power BI Desktop.
 Interact with filters (Guest Type, Hotel Type) to analyze specific trends.
 Use charts to compare cancellations across months and years.
 Export insights to PDF or Excel for further business decisions.
+
+📝 License
+This project is open-source under the MIT License.
